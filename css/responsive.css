@@ -23,7 +23,7 @@ px      68    160    252    344    436    528    620    712    */
     text-align: center;
   }
   #wrapper .block img {
-    padding-top: 100px;
+    padding-top: 50px;
     width: 50%;
   }
   /*--
@@ -64,76 +64,7 @@ px      68    160    252    344    436    528    620    712    */
   /*---------------------------------------------
 					Index Close 
 -----------------------------------------------*/
-  /*=============================================*/
-  /*---------------------------------------------
-					Work Start 
------------------------------------------------*/
-  /*--
-	slider-work Start 
---*/
-  #slider-work .block h1 {
-    font-size: 28px;
-  }
-  #slider-work .block p {
-    font-size: 15px;
-  }
-  /*--
-	portfolio Start 
---*/
-  #portfolio-work .block .portfolio-manu {
-    padding-left: 0px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading {
-    padding: 5px 0 5px 13px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
-    font-size: 20px;
-    line-height: 25px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading p {
-    font-size: 11px;
-    line-height: 20px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .overlay {
-    padding-left: 15px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
-    padding-top: 30px;
-    padding-bottom: 15px;
-    font-size: 20px;
-    line-height: 25px;
-  }
-  #portfolio-work .block .portfolio-contant ul li a .overlay p {
-    font-size: 11px;
-    line-height: 20px;
-    padding-top: 15px;
-  }
-  /*--
-	wrapper Start 
---*/
-  #wrapper-work ul li .items-text {
-    padding-top: 0;
-    padding-left: 25px;
-  }
-  #wrapper-work ul li .items-text h2 {
-    padding-bottom: 10px;
-    padding-top: 40px;
-  }
-  #wrapper-work ul li .items-text p {
-    font-size: 14px;
-    line-height: 20px;
-    padding-right: 30px;
-  }
-  /*--
-	features Start 
---*/
-  #features-work .block ul li {
-    width: 49%;
-  }
-  /*---------------------------------------------
-					Work close 
------------------------------------------------*/
-  /*=============================================*/
+  
   /*---------------------------------------------
 					contact start 
 -----------------------------------------------*/
