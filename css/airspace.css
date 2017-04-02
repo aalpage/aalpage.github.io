@@ -135,8 +135,8 @@ font-family: 'Vollkorn', serif;
   font-weight: 400;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
-  padding-bottom: 45px;
+  letter-spacing: 6px;
+  padding-bottom: 30px;
 }
 #slider .block p {
   font-size: 23px;
@@ -149,7 +149,7 @@ font-family: 'Vollkorn', serif;
 	wrapper Start
 --*/
 #intro {
-  padding: 105px 0;
+  padding: 125px 0;
 }
 #intro .block h2 {
   padding-top: 25px;
