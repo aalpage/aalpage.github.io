@@ -79,7 +79,7 @@ header .navbar-brand {
 }
 header .navbar-default {
 
-  background: none;
+  background: #fff;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
