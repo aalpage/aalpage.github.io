@@ -68,6 +68,10 @@ header {
 	z-index:4;
   background: #fff;
   padding: 10px 0;
+	top: 0; 
+	margin:auto; 
+	overflow: hidden;
+	width:1100px;
 }
 header .navbar {
 
@@ -91,7 +95,7 @@ header .navbar-default .navbar-nav li a {
 
   color: #333333;
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
 
