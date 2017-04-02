@@ -65,6 +65,7 @@ font-family: 'Vollkorn', serif;
 --*/
 header {
 	position: fixed;
+	z-index:4;
   background: #fff;
   padding: 20px 0;
 }
