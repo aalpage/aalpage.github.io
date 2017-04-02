@@ -80,25 +80,21 @@ header .navbar-brand {
   padding-top: 5px;
 }
 header .navbar-default {
-	    position: fixed;
 
   background: none;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-	    position: fixed;
 
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-	    position: fixed;
 
   color: #333333;
   padding: 10px 26px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-	    position: fixed;
 
   color: #000;
 }
