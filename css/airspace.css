@@ -71,7 +71,7 @@ header {
 	top: 0; 
 	margin:auto; 
 	overflow: hidden;
-	width:2100px;
+	width:100%;
 }
 header .navbar {
 
