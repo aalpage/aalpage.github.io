@@ -114,6 +114,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 320px 0 200px 0;
   position: relative;
   text-align: center;
+  height: 100%;
 }
 #slider:before {
   content: "";
@@ -163,6 +164,7 @@ font-family: 'Vollkorn', serif;
 --*/
 #intro {
   padding: 125px 0;
+  height: 100%;
 }
 #intro .block h2 {
   padding-top: 25px;
@@ -191,6 +193,7 @@ font-family: 'Vollkorn', serif;
 
   text-align: center;
   padding: 55px 0;
+  height: 100%;
 }
 #service .service-item {
   padding-bottom: 18px;
