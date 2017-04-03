@@ -64,14 +64,13 @@ font-family: 'Vollkorn', serif;
 	Header Start
 --*/
 header {
-	position: fixed;
-	z-index:4;
+  position: fixed;
+  z-index:4;
   background: #fff;
   padding: 10px 0;
-	top: 0; 
-	margin:auto; 
-	overflow: hidden;
-	width:100%;
+  top: 0;  
+  overflow: hidden;
+  width:100%;
 }
 header .navbar {
 
@@ -112,7 +111,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 250px 0 280px 0;
   position: relative;
 }
 #slider:before {
