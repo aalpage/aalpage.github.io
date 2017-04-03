@@ -199,15 +199,11 @@ font-family: 'Vollkorn', serif;
   height: 100%;
   width: 100%;
   position: relative;
-
-}
-#service .section-title h2{
-  text-align: center;
-}
-#service .section-title p{
   text-align: center;
   padding: 0;
+
 }
+
 #service .service-item {
   margin-top: -30px;
 	
@@ -218,11 +214,12 @@ font-family: 'Vollkorn', serif;
 }
 #service .service-item h4 {
   margin: 0;
+  padding: 10px 0;
   color: #EDEEF9;
 }
 #service .service-item p {
   color: #EDEEF9;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
   font-size: 14px;
   line-height: 1.8;
 }
