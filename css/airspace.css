@@ -263,9 +263,9 @@ font-family: 'Vollkorn', serif;
 }
 #contact-form .form-group {
   margin-top: -40px;
+  padding-bottom: 10px;
 }
 #contact-form .google-map {
-  margin-top: -20px;
   padding-left: 15px;
 }
 #contact-form .form-group-2 {
