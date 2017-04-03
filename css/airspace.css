@@ -257,7 +257,7 @@ font-family: 'Vollkorn', serif;
   
 }
 #contact-form .address-block {
-  padding-left: 15px;
+  padding: 0 0 30px 15px;
 }
 #contact-form .google-map {
   margin-top: -20px;
