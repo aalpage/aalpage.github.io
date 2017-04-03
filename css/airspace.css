@@ -13,7 +13,7 @@
 	Common Css
 --*/
 html{
-	 overflow: hidden;
+	 overflow: scroll;
 
 }
 body {
@@ -28,8 +28,8 @@ body {
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
- overflow-y: scroll;
- display: inline-block;
+ overflow-x: hidden;
+ float: left;
 
 }
 h1,
