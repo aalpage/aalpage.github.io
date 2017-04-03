@@ -252,8 +252,8 @@ font-family: 'Vollkorn', serif;
 #contact-form .form-group {
   padding-left: 10px;
 }
-#contact-form .form-group-2 {
-  padding: 0 0 10px 10px;
+#contact-form .google-map {
+  padding: 0 10px 0 0;
 }
 
 
