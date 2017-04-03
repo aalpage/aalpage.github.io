@@ -29,18 +29,16 @@ h4,
 h5,
 h6 {
 font-family: 'Vollkorn', serif;
+font-weight: 400;
 }
 h2 {
   font-size: 30px;
-  font-weight: 400;
 }
 h3 {
   font-size: 28px;
-  font-weight: 400;
 }
 p {
   font-size: 15px;
-  line-height: 28px;
 }
 ul {
   padding: 0;
@@ -59,7 +57,6 @@ a:active {
 .section-title h2 {
   text-transform: uppercase;
   font-size: 28px;
-  font-weight: 400;
 }
 .section-title p {
 font-family: 'Vollkorn', serif;
@@ -198,7 +195,7 @@ font-family: 'Vollkorn', serif;
 --*/
 #service {
   background: #4A4656;
-  padding: 90px 0 40px 0;
+  padding: 90px 0 60px 0;
   height: 100%;
   width: 100%;
   position: relative;
@@ -206,12 +203,12 @@ font-family: 'Vollkorn', serif;
 }
 #service .section-title h2{
   text-align: center;
-  padding-bottom: 18px;
-  font-size: 80px;
+  padding-bottom: 10px;
+  font-size: 40px;
 }
 #service .section-title p{
   text-align: center;
-  padding-bottom: 18px;
+  padding-bottom: 10px;
   font-size: 18px;
 }
 #service .service-item {
@@ -222,7 +219,7 @@ font-family: 'Vollkorn', serif;
   color: #EDEEF9;
 }
 #service .service-item h4 {
-  padding-top: 20px;
+  padding-top: 5px;
   margin: 0;
   color: #EDEEF9;
 }
