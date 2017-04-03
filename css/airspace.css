@@ -141,11 +141,10 @@ font-family: 'Vollkorn', serif;
 }
 #slider .block p {
   font-size: 40px;
-  line-height: 60px;
+  line-height: 50px;
   font-family: 'Vollkorn', serif;
   font-weight: 400;
   letter-spacing: 3px;
-  margin-top: -30px;
 
 }
 /*--
