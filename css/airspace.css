@@ -27,6 +27,8 @@ html, body {
     -o-box-sizing: border-box;
  overflow: scroll;
  overflow-x: hidden;
+ overflow-y: hidden;
+
  display: inline-block;
 
 }
