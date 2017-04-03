@@ -119,7 +119,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-position: 10% 0%;
   padding: 320px 0 200px 0;
-  position: absolute;
+  position: relative;
   text-align: center;
   height: 100%;
 }
