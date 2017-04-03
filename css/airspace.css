@@ -206,9 +206,9 @@ font-family: 'Vollkorn', serif;
 }
 #service .section-title p{
   text-align: center;
+  padding: 0;
 }
 #service .service-item {
-  padding-bottom: 10px;
 }
 #service .service-item i {
   font-size: 60px;
@@ -220,7 +220,6 @@ font-family: 'Vollkorn', serif;
 }
 #service .service-item p {
   color: #EDEEF9;
-  padding-top: 10px;
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
@@ -244,9 +243,8 @@ font-family: 'Vollkorn', serif;
   padding-bottom: 10px;
 }
 #contact-form .address-block {
-  font-size: 24px;
-  line-height: 28px;
-  color: #7B7B7B;
+  font-size: 15px;
+  line-height: 20px;
   padding-top: 20px;
 }
 #contact-form .form-group {
