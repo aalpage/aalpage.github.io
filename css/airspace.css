@@ -127,25 +127,36 @@ font header .navbar-default .navbar-nav li a:hover {
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
-#slider .block {
-  color: #EDEEF9;
-}
+
 #slider .block h1 {
 font-family: 'Vollkorn', serif;
   font-weight: 400;
-  font-size: 50px;
-  line-height: 65px;
+  font-size: 55px;
+  line-height: 70px;
   letter-spacing: 6px;
   padding: 0 0 20px 0;
   margin-top: -45px;
+  color: #FFFFFF;
 }
 #slider .block p {
   font-size: 40px;
-  line-height: 50px;
+  line-height: 45px;
   font-family: 'Vollkorn', serif;
   font-weight: 400;
   letter-spacing: 3px;
   padding: 0;
+  color: #EDEEF9;
+
+}
+#slider .block q {
+  font-size: 30px;
+  line-height: 35px;
+  font-family: 'Vollkorn', serif;
+  font-weight: 400;
+  letter-spacing: 3px;
+  padding: 0;
+  color: #E3E5FC;
+
 }
 /*--
 	wrapper Start
