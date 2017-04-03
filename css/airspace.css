@@ -170,7 +170,7 @@ font-family: 'Vollkorn', serif;
 	wrapper Start
 --*/
 #intro {
-  padding: 125px 0;
+  padding: 0;
   height: 100%;
   position: relative;
 }
@@ -200,7 +200,7 @@ font-family: 'Vollkorn', serif;
 	  background: #4A4656;
 
   text-align: center;
-  padding: 55px 0;
+  padding: 55px 0 0 0;
   height: 100%;
   position: relative;
 
