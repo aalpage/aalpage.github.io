@@ -111,7 +111,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 340px 0 200px 0;
+  padding: 320px 0 200px 0;
   position: relative;
   text-align: center;
 
@@ -137,14 +137,15 @@ font-family: 'Vollkorn', serif;
   font-size: 50px;
   line-height: 65px;
   letter-spacing: 6px;
-  padding-bottom: 20px;
+  padding: 0 0 20px 0;
 }
 #slider .block p {
   font-size: 40px;
   line-height: 50px;
-font-family: 'Vollkorn', serif;
+  font-family: 'Vollkorn', serif;
   font-weight: 400;
   letter-spacing: 3px;
+  padding: 0
 }
 /*--
 	wrapper Start
