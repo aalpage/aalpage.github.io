@@ -179,7 +179,7 @@ font-family: 'Vollkorn', serif;
   background: #F5F5F5;
   height: 100%;
   position: relative;
-  padding-top: 110px;
+  padding: 110px 0;
   width: 100%
 }
 #intro .block h2 {
@@ -254,12 +254,15 @@ font-family: 'Vollkorn', serif;
   padding-bottom: 10px;
 }
 #contact-form .address-block {
+  text-align: center;
+  margin-top: -40px;
   font-size: 18px;
   line-height: 24px;
-  
+  padding: 20 0 70px 15px;
+
 }
-#contact-form .address-block {
-  padding: 0 0 90px 15px;
+#contact-form .form-group {
+  margin-top: -40px;
 }
 #contact-form .google-map {
   margin-top: -20px;
