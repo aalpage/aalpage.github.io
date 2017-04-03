@@ -203,23 +203,18 @@ font-family: 'Vollkorn', serif;
 }
 #service .section-title h2{
   text-align: center;
-  padding-bottom: 10px;
-  font-size: 40px;
 }
 #service .section-title p{
   text-align: center;
-  padding-bottom: 10px;
-  font-size: 18px;
 }
 #service .service-item {
-  padding-bottom: 18px;
+  padding-bottom: 10px;
 }
 #service .service-item i {
   font-size: 60px;
   color: #EDEEF9;
 }
 #service .service-item h4 {
-  padding-top: 5px;
   margin: 0;
   color: #EDEEF9;
 }
@@ -243,12 +238,10 @@ font-family: 'Vollkorn', serif;
 #contact-form .section-title h2 {
  text-align: center;
   padding-bottom: 10px;
-  font-size: 40px;
 }
 #contact-form .section-title p {
    text-align: center;
   padding-bottom: 10px;
-  font-size: 18px;
 }
 #contact-form .address-block {
   font-size: 24px;
@@ -262,9 +255,7 @@ font-family: 'Vollkorn', serif;
 #contact-form .form-group-2 {
   padding: 0 0 10px 10px;
 }
-#contact-form .button {
-  padding-left: 10px;	
-}
+
 
 /*--
 	features Start
