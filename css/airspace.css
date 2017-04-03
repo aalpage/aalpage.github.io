@@ -12,8 +12,11 @@
 /*--
 	Common Css
 --*/
+html{
+	 overflow: hidden;
 
-html, body {
+}
+body {
   font-family: 'Vollkorn', serif;
   -webkit-font-smoothing: antialiased;
   margin: 0 auto;
@@ -25,8 +28,7 @@ html, body {
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
- overflow: hidden;
-
+ overflow-y: scroll;
  display: inline-block;
 
 }
