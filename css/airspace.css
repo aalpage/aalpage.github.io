@@ -25,9 +25,7 @@ html, body {
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
- overflow: scroll;
- overflow-x: hidden;
- overflow-y: hidden;
+ overflow: hidden;
 
  display: inline-block;
 
