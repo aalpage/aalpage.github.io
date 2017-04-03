@@ -179,7 +179,7 @@ font-family: 'Vollkorn', serif;
   background: #F5F5F5;
   height: 100%;
   position: relative;
-  padding: 110px 0;
+  padding: 110px 0 150px 0;
   width: 100%
 }
 #intro .block h2 {
@@ -206,7 +206,7 @@ font-family: 'Vollkorn', serif;
 --*/
 #service {
   background: #4A4656;
-  padding: 90px 0 60px 0;
+  padding: 90px 0 70px 0;
   height: 100%;
   width: 100%;
   position: relative;
