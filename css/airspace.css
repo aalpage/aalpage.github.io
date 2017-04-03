@@ -171,7 +171,7 @@ font-family: 'Vollkorn', serif;
 #intro {
   height: 100%;
   position: relative;
-  padding-top: 80px;
+  padding-top: 110px;
   width: 100%
 }
 #intro .block h2 {
@@ -198,7 +198,7 @@ font-family: 'Vollkorn', serif;
 --*/
 #service {
   background: #4A4656;
-  padding: 80px 0 40px 0;
+  padding: 90px 0 40px 0;
   height: 100%;
   width: 100%;
   position: relative;
@@ -207,9 +207,9 @@ font-family: 'Vollkorn', serif;
 #service .section-title h2{
   text-align: center;
   padding-bottom: 18px;
-  font-size: 60px;
+  font-size: 80px;
 }
-#service .section-title h2{
+#service .section-title p{
   text-align: center;
   padding-bottom: 18px;
   font-size: 18px;
@@ -240,7 +240,7 @@ font-family: 'Vollkorn', serif;
 #contact-form {
   height: 100%;
   position: relative;
-  padding: 100px 0 40px 0;
+  padding: 80px 0 40px 0;
   width: 100%
 }
 #contact-form .section-title h2 {
@@ -250,8 +250,8 @@ font-family: 'Vollkorn', serif;
   margin: 0;
 }
 #contact-form .address-block p {
-  font-size: 16px;
-  line-height: 18px;
+  font-size: 24px;
+  line-height: 28px;
   color: #7B7B7B;
   padding-top: 20px;
 }
@@ -259,9 +259,9 @@ font-family: 'Vollkorn', serif;
   padding-left: 10px;
 }
 #contact-form .form-group-2 {
-  padding-left: 10px;
+  padding: 0 0 10px 10px;
 }
-#contact-form .button{
+#contact-form .button {
   padding-left: 10px;	
 }
 
