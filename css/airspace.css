@@ -221,11 +221,11 @@ font-family: 'Vollkorn', serif;
 #service .service-item i {
   font-size: 60px;
   color: #EDEEF9;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 #service .service-item h4 {
   margin: 0;
-  padding: 10px 0;
+  padding-bottom: 10px 0;
   color: #EDEEF9;
 }
 #service .service-item p {
