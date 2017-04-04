@@ -178,7 +178,7 @@ font-family: 'Vollkorn', serif;
 --*/
 #intro {
   background: #F5F5F5;
-  height: 100%;
+  height: auto;
   position: relative;
   padding: 110px 0 150px 0;
   width: 100%
@@ -208,7 +208,7 @@ font-family: 'Vollkorn', serif;
 #service {
   background: #4A4656;
   padding: 90px 0 70px 0;
-  height: 100%;
+  height: auto;
   width: 100%;
   position: relative;
   text-align: center;
