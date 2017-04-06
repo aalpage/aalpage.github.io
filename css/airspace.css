@@ -217,6 +217,7 @@ font-family: 'Vollkorn', serif;
 }
 
 #service .block .portfolio-contant ul li {
+  background: #FFFFFF;
   float: left;
   width: 32.22%;
   overflow: hidden;
