@@ -23,7 +23,7 @@ body {
   margin: 0 auto;
   padding: 0;
   min-height: 100%;
-  min-width: 100%;
+  width: 100%;
   box-sizing: border-box;
      -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
